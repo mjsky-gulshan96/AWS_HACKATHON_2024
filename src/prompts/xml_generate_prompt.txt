@@ -1,0 +1,16 @@
+This XML:
+<category-assignment category-id="womens-accessories-bracelets-rings-pins" product-id="25448070M">
+    <primary-flag>true</primary-flag>
+</category-assignment>
+
+- Contains a category-assignment element.
+- The category-assignment element has an id attribute of "category-id" 
+- The value of the category-assignment element is "womens-accessories-bracelets-  rings-pins"
+- The category-assignment element has a attribute "product-id".
+- the value of element "product-id" is "25448070M"
+
+question:
+create a xml in the same format that is mentioned above. fill the xml with the data provided below.
+The data is a array of object, where each object has "category-id" and "product-id" is its key.
+
+<<xml_data>>

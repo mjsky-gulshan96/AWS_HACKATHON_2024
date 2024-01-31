@@ -3,10 +3,12 @@
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
+.vscode/
+
 # Node artifact files
 node_modules/
 dist/
-
+output/
 # Compiled Java class files
 *.class
 

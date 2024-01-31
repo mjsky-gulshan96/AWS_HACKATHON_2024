@@ -1,0 +1,5 @@
+here is product short description : <<description>>
+
+Question: based on the product short description, 
+give me the list of all the possible categories that matches only from the given <<all_categories>>.
+Give result in list format if found otherwise give as "NA".

@@ -1,0 +1,3 @@
+pandas==1.1.4
+boto3==1.16.28
+streamlit==1.30.0

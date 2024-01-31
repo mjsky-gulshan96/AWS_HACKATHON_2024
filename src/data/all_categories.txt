@@ -1,0 +1,13 @@
+newarrivals, newarrivals-womens, newarrivals-mens, newarrivals-electronics, 
+womens, womens-clothing, womens-outfits, womens-clothing-tops, womens-clothing-dresses, 
+womens-clothing-bottoms, womens-clothing-jackets, womens-clothing-feeling-red, womens-jewelry, 
+womens-jewelry-earrings, womens-jewelry-bracelets, womens-jewelry-necklaces, womens-accessories, 
+womens-accessories-scarves, womens-accessories-shoes, mens, mens-clothing, mens-clothing-suits, 
+mens-clothing-jackets, mens-clothing-dress-shirts, mens-clothing-shorts, mens-clothing-pants, 
+mens-accessories, mens-accessories-ties, mens-accessories-gloves, mens-accessories-luggage, 
+electronics, electronics-televisions, electronics-televisions-flat-screen, 
+electronics-televisions-projection, electronics-televisions-tv_dvd-combo, electronics-digital-cameras, electronics-camcorders, electronics-digital-media-players, electronics-mobile-phones, electronics-gps-units, electronics-gaming, electronics-game-consoles, electronic-games, electronics-accessories, gift-certificates,
+top-seller, hidden, sale, sale-mens, sale-mens-footwear, sale-mens-clothing, sale-mens-accessories, 
+sale-womens, sale-womens-dresses, sale-womens-clothing, sale-womens-accessories, sale-electronics, 
+sale-electronics-tv, sale-electronics-camcorders, sale-electronics-digital, sale-electronics-gps, 
+sale-electronics-gaming, sale-electronics-mobile, sale-electronics-portable-audio, sale-electronics-accessories
